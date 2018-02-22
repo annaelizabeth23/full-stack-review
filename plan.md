@@ -5,7 +5,7 @@
 *restart server when you change environment variables
 
 *Front-End
-    * Routing- Browser Router.
+    * ~~Routing- Browser Router~~
     * Components
         * Login- route to Auth 0
         * Environment variables- dotenv
