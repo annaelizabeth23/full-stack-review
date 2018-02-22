@@ -7,8 +7,8 @@
 *Front-End
     * ~~Routing- Browser Router~~
     * Components
-        * Login- route to Auth 0
-        * Environment variables- dotenv
+        * ~~Login- route to Auth 0~~
+        * ~~Environment variables- dotenv~~
         * Logout button
     * Account
         * Axios to fetch user info
